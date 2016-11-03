@@ -1,6 +1,6 @@
 # using-gulp
 
-Medium post for using Gulp
+Medium post for using gulp
 
 ## Installation
 

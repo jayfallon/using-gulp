@@ -1,7 +1,7 @@
 {
   "name": "using-gulp",
   "version": "1.0.0",
-  "description": "Medium post for using Gulp",
+  "description": "Medium post for using gulp",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
