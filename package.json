@@ -1,0 +1,23 @@
+{
+  "name": "using-gulp",
+  "version": "1.0.0",
+  "description": "Medium post for using Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "node",
+    "npm",
+    "stylus",
+    "unencoded-design"
+  ],
+  "author": "Jay Fallon",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-stylus": "^2.6.0"
+  }
+}
