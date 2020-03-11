@@ -16,7 +16,7 @@
   "author": "Jay Fallon",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-clean-css": "^2.0.13",
     "gulp-stylus": "^2.6.0"
   }
